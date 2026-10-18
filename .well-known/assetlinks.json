@@ -1,11 +1,16 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.lauravoetzsch.deeplinksapp",
       "sha256_cert_fingerprints": [
-        "F2:65:9B:35:AA:88:D1:3F:9A:53:BC:26:DE:83:83:3D:36:D6:44:8D:F9:CB:9C:07:6C:D0:04:81:5C:48:24:02"
+        "F2:65:9B:35:AA:88:D1:3F:9A:53:BC:26:DE:83:83:3D:36:D6:44:8D:F9:CB:9C:07:6C:D0:04:81:5C:48:24:02",
+        "5C:43:F0:4E:81:47:E6:A4:D8:15:DA:D1:26:B5:8C:44:0E:24:A1:93:5E:36:01:E7:C9:BF:AF:5F:CF:45:E1:EB",
+        "B3:71:9C:EC:1E:30:57:79:D0:81:6C:CC:92:89:41:C8:DF:C1:C2:74:23:D8:E3:46:18:C9:EC:B5:CB:A1:4D:5E",
+        "F3:59:46:00:B8:BD:C2:85:6A:3C:F4:11:CD:B1:BB:EE:72:4A:39:09:E6:DB:06:8D:23:F4:29:8E:EE:04:29:08"
       ]
     }
   }
